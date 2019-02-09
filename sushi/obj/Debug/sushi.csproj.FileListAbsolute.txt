@@ -1,0 +1,66 @@
+F:\C#\sushi\sushi\bin\ApplicationInsights.config
+F:\C#\sushi\sushi\bin\roslyn\csc.exe
+F:\C#\sushi\sushi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\C#\sushi\sushi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\C#\sushi\sushi\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\C#\sushi\sushi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\C#\sushi\sushi\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\C#\sushi\sushi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\C#\sushi\sushi\bin\roslyn\System.Collections.Immutable.dll
+F:\C#\sushi\sushi\bin\roslyn\System.Reflection.Metadata.dll
+F:\C#\sushi\sushi\bin\roslyn\vbc.exe
+F:\C#\sushi\sushi\bin\roslyn\VBCSCompiler.exe
+F:\C#\sushi\sushi\bin\roslyn\VBCSCompiler.exe.config
+F:\C#\sushi\sushi\bin\sushi.dll.config
+F:\C#\sushi\sushi\bin\sushi.dll
+F:\C#\sushi\sushi\bin\sushi.pdb
+F:\C#\sushi\sushi\bin\Microsoft.AI.Agent.Intercept.dll
+F:\C#\sushi\sushi\bin\Microsoft.AI.DependencyCollector.dll
+F:\C#\sushi\sushi\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\C#\sushi\sushi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\C#\sushi\sushi\bin\Microsoft.AI.Web.dll
+F:\C#\sushi\sushi\bin\Microsoft.AI.WindowsServer.dll
+F:\C#\sushi\sushi\bin\Microsoft.ApplicationInsights.dll
+F:\C#\sushi\sushi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\C#\sushi\sushi\bin\Microsoft.AI.DependencyCollector.xml
+F:\C#\sushi\sushi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\C#\sushi\sushi\bin\Microsoft.AI.Web.xml
+F:\C#\sushi\sushi\bin\Microsoft.AI.WindowsServer.xml
+F:\C#\sushi\sushi\bin\Microsoft.ApplicationInsights.xml
+F:\C#\sushi\sushi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\C#\sushi\sushi\obj\Debug\sushi.dll
+F:\C#\sushi\sushi\obj\Debug\sushi.pdb
+F:\C#\sushi\sushi\obj\Debug\sushi.csprojResolveAssemblyReference.cache
+F:\C#\mY rEstuarent\sushi\bin\ApplicationInsights.config
+F:\C#\mY rEstuarent\sushi\bin\roslyn\csc.exe
+F:\C#\mY rEstuarent\sushi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\C#\mY rEstuarent\sushi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\C#\mY rEstuarent\sushi\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\C#\mY rEstuarent\sushi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\C#\mY rEstuarent\sushi\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\C#\mY rEstuarent\sushi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\C#\mY rEstuarent\sushi\bin\roslyn\System.Collections.Immutable.dll
+F:\C#\mY rEstuarent\sushi\bin\roslyn\System.Reflection.Metadata.dll
+F:\C#\mY rEstuarent\sushi\bin\roslyn\vbc.exe
+F:\C#\mY rEstuarent\sushi\bin\roslyn\VBCSCompiler.exe
+F:\C#\mY rEstuarent\sushi\bin\roslyn\VBCSCompiler.exe.config
+F:\C#\mY rEstuarent\sushi\bin\sushi.dll.config
+F:\C#\mY rEstuarent\sushi\bin\sushi.dll
+F:\C#\mY rEstuarent\sushi\bin\sushi.pdb
+F:\C#\mY rEstuarent\sushi\bin\Microsoft.AI.Agent.Intercept.dll
+F:\C#\mY rEstuarent\sushi\bin\Microsoft.AI.DependencyCollector.dll
+F:\C#\mY rEstuarent\sushi\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\C#\mY rEstuarent\sushi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\C#\mY rEstuarent\sushi\bin\Microsoft.AI.Web.dll
+F:\C#\mY rEstuarent\sushi\bin\Microsoft.AI.WindowsServer.dll
+F:\C#\mY rEstuarent\sushi\bin\Microsoft.ApplicationInsights.dll
+F:\C#\mY rEstuarent\sushi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\C#\mY rEstuarent\sushi\bin\Microsoft.AI.DependencyCollector.xml
+F:\C#\mY rEstuarent\sushi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\C#\mY rEstuarent\sushi\bin\Microsoft.AI.Web.xml
+F:\C#\mY rEstuarent\sushi\bin\Microsoft.AI.WindowsServer.xml
+F:\C#\mY rEstuarent\sushi\bin\Microsoft.ApplicationInsights.xml
+F:\C#\mY rEstuarent\sushi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\C#\mY rEstuarent\sushi\obj\Debug\sushi.csprojResolveAssemblyReference.cache
+F:\C#\mY rEstuarent\sushi\obj\Debug\sushi.dll
+F:\C#\mY rEstuarent\sushi\obj\Debug\sushi.pdb
